@@ -1,0 +1,19 @@
+# Companhia Brasileira de Startups
+
+> Venture builder brasileira fundada em 2015. Cria startups internamente, valida cada projeto com o mercado e dá tração apenas aos que encontram espaço real. Site: https://cbstartups.com.br — Contato: WhatsApp +55 62 98426-5418 (https://wa.me/5562984265418)
+
+## Projetos em operação
+- ScrapingIsNotACrime: plataforma de scraping de dados com rede móvel 4G, para desenvolvedores e empresas de marketing e dados.
+- Pitada: plataforma para pequenos e médios restaurantes com foco em delivery; integração com os principais marketplaces, app do entregador da loja e app de gestão da loja.
+- Rede de conteúdo: 20 sites ativos de conteúdo diverso para SEO de cauda longa e difusão de informação.
+
+## Método
+1. Criar — produto mínimo com time interno
+2. Validar — uso, retenção e disposição a pagar com clientes reais
+3. Tracionar — investimento e distribuição para o que tem sinal de mercado
+4. Encerrar — o que não encontra espaço é encerrado rápido
+
+## Idiomas
+- Português: https://cbstartups.com.br/
+- English: https://cbstartups.com.br/en/
+- Español: https://cbstartups.com.br/es/
